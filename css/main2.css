@@ -1,0 +1,22 @@
+/*
+ * HTML5 Boilerplate
+ *
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+body {font-size: 1em; line-height: 1.4;
+}
+
+.section-text {font-family: 'Dosis', sans-serif;  text-align:center;}
+
+#wrapper{width:100%;}
+
+#container{width:960px; margin:0 auto;}
+
+			  
